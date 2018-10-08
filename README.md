@@ -1,2 +1,2 @@
 # Pythagorean-Proof
-neat little interactive proof of pythagoras' theorem
+Cool little interactive proof of pythagoras' theorem
